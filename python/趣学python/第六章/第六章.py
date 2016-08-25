@@ -8,3 +8,6 @@ while x < 50 and y < 80:
     x = x + 1
     y = y + 1
     print(x, y)
+
+
+
