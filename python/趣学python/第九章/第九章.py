@@ -1,0 +1,20 @@
+print(abs(-10))
+print(bool(0))
+print(bool("what do u want"))
+print(bool(1))
+dir(1)
+popcorn="i love popcorn"
+dir(popcorn)
+eval('10*3')
+float('12')
+print(list(range(0,5)))
+print(list(range(0,50,2)))
+number=(list(range(0,50,2)))
+print(sum(number))
+
+
+test_file=open('F:\\test.txt')
+test=test_file.read()
+print(test)
+test_file.write('ok')
+test_file.close()
