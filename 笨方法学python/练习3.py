@@ -1,0 +1,21 @@
+print('I Will now count my chickens:')
+
+print('Hens')
+print(25+30/6)
+print("Roosters")
+print(100-25*3%4)
+print('now i whil count the eggs：')
+print(int(3+2+1-5+4%2-1/4+6))
+print('is it true that 3+2<5-7?')
+print(3+2<5-7)
+print('what is 3+2?')
+print(3+2)
+print('what is 5-7?')
+print(5-7)
+
+print("oh no that's why it's false")
+
+print("how about about some more")
+print("is it greater?"),print(5>-2)
+print("is it greater or equal?"),print(5>=-2)
+print("is it less or equal"),print(5<=-2)
