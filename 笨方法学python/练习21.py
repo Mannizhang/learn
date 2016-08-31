@@ -29,6 +29,7 @@ print("that's becomes",what,"can you do it by hand?")
 
 
 
+
 #()后面加：比较容易忘记
 def girl(x,y):
     print("add%d+%d"%(x,y))
