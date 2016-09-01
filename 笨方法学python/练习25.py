@@ -38,12 +38,8 @@ def print_first_and_last_sorted(sentence):
     print_first_word(words)
     print_last_words(words)
 #loading...书上写得清楚明白，修改这个ex25这个模块，让它运行无错误，再在cmd或终端输入python，
-呼叫出python shell，再import ex25
-调用ex25模块的函数，即可。
-是英文看不懂，还是没有认真看。
-看下面图片，我是如何做的，左边是代码，在代码所在的目录，输入python，再import ex25
+#呼叫出python shell，再import ex25
+#调用ex25模块的函数，即可。
+#是英文看不懂，还是没有认真看。
+#看下面图片，我是如何做的，左边是代码，在代码所在的目录，输入python，再import ex25
 
-
-链接：http://www.zhihu.com/question/42216402/answer/94034081
-来源：知乎
-著作权归作者所有，转载请联系作者获得授权。
