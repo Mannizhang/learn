@@ -12,6 +12,5 @@ for i in change:
     print("i got %r"%i)
 for i in range(0,6):
     print("adding %d to the list"%i)
-
 for i in range(0,6):
     print("element was %d"%i)
