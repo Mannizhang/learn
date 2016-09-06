@@ -26,7 +26,7 @@
     <SUITE FILE_PATH="coverage/learn$7_pY.coverage" NAME="练习7.pY Coverage Results" MODIFIED="1472353094395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笨方法学python" />
     <SUITE FILE_PATH="coverage/learn$13.coverage" NAME="练习13 Coverage Results" MODIFIED="1472556015495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笨方法学python" />
     <SUITE FILE_PATH="coverage/learn$6.coverage" NAME="练习6 Coverage Results" MODIFIED="1472351300529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笨方法学python" />
-    <SUITE FILE_PATH="coverage/learn$.coverage" NAME="测试专用的骨架文件 Coverage Results" MODIFIED="1473154083992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笨方法学python/项目骨架" />
+    <SUITE FILE_PATH="coverage/learn$.coverage" NAME="测试专用的骨架文件 Coverage Results" MODIFIED="1473174102329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笨方法学python/项目骨架" />
     <SUITE FILE_PATH="coverage/learn$9.coverage" NAME="练习9 Coverage Results" MODIFIED="1472358512441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笨方法学python" />
     <SUITE FILE_PATH="coverage/learn$38.coverage" NAME="练习38 Coverage Results" MODIFIED="1472892501502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笨方法学python" />
     <SUITE FILE_PATH="coverage/learn$3.coverage" NAME="练习3 Coverage Results" MODIFIED="1472309308829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笨方法学python" />
@@ -39,6 +39,7 @@
     <SUITE FILE_PATH="coverage/learn$15.coverage" NAME="练习15 Coverage Results" MODIFIED="1472568846918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笨方法学python" />
     <SUITE FILE_PATH="coverage/learn$18.coverage" NAME="练习18 Coverage Results" MODIFIED="1472627179802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笨方法学python" />
     <SUITE FILE_PATH="coverage/learn$33_PY.coverage" NAME="练习33.PY Coverage Results" MODIFIED="1472811857848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笨方法学python" />
+    <SUITE FILE_PATH="coverage/learn$49.coverage" NAME="练习49 Coverage Results" MODIFIED="1473174351544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笨方法学python" />
     <SUITE FILE_PATH="coverage/learn$31.coverage" NAME="练习31 Coverage Results" MODIFIED="1472806770807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笨方法学python" />
     <SUITE FILE_PATH="coverage/learn$46.coverage" NAME="练习46 Coverage Results" MODIFIED="1473154079298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笨方法学python/项目骨架" />
     <SUITE FILE_PATH="coverage/learn$14.coverage" NAME="练习14 Coverage Results" MODIFIED="1472560373437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笨方法学python" />
@@ -66,34 +67,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="练习42.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/笨方法学python/练习42.py">
+      <file leaf-file-name="练习49.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/笨方法学python/练习49.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1620">
-              <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+            <state relative-caret-position="729">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="练习46.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/笨方法学python/项目骨架/练习46.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="测试专用的骨架文件.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/笨方法学python/项目骨架/测试专用的骨架文件.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -159,6 +138,7 @@
         <option value="$PROJECT_DIR$/笨方法学python/项目骨架/练习46.py" />
         <option value="$PROJECT_DIR$/笨方法学python/项目骨架/setup.py" />
         <option value="$PROJECT_DIR$/笨方法学python/项目骨架/测试专用的骨架文件.py" />
+        <option value="$PROJECT_DIR$/笨方法学python/练习49.py" />
       </list>
     </option>
   </component>
@@ -199,8 +179,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -211,6 +189,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,25 +199,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.测试专用的骨架文件">
-    <configuration default="false" name="练习40" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/笨方法学python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learn" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/笨方法学python/练习40.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.练习49">
     <configuration default="false" name="练习42" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,6 +268,24 @@
       <module name="learn" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/笨方法学python/项目骨架/测试专用的骨架文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="练习49" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/笨方法学python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learn" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/笨方法学python/练习49.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -519,19 +499,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.练习40" />
-      <item index="1" class="java.lang.String" itemvalue="Python.练习42" />
-      <item index="2" class="java.lang.String" itemvalue="Python.练习44" />
-      <item index="3" class="java.lang.String" itemvalue="Python.练习46" />
-      <item index="4" class="java.lang.String" itemvalue="Python.测试专用的骨架文件" />
+      <item index="0" class="java.lang.String" itemvalue="Python.练习42" />
+      <item index="1" class="java.lang.String" itemvalue="Python.练习44" />
+      <item index="2" class="java.lang.String" itemvalue="Python.练习46" />
+      <item index="3" class="java.lang.String" itemvalue="Python.测试专用的骨架文件" />
+      <item index="4" class="java.lang.String" itemvalue="Python.练习49" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.测试专用的骨架文件" />
-        <item index="1" class="java.lang.String" itemvalue="Python.练习46" />
-        <item index="2" class="java.lang.String" itemvalue="Python.练习44" />
-        <item index="3" class="java.lang.String" itemvalue="Python.练习42" />
-        <item index="4" class="java.lang.String" itemvalue="Python.练习40" />
+        <item index="0" class="java.lang.String" itemvalue="Python.练习49" />
+        <item index="1" class="java.lang.String" itemvalue="Python.测试专用的骨架文件" />
+        <item index="2" class="java.lang.String" itemvalue="Python.练习46" />
+        <item index="3" class="java.lang.String" itemvalue="Python.练习44" />
+        <item index="4" class="java.lang.String" itemvalue="Python.练习42" />
       </list>
     </recent_temporary>
   </component>
@@ -611,13 +591,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/笨方法学python/练习2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/笨方法学python/exl.py" />
     <entry file="file://$PROJECT_DIR$/python/趣学python/第六章/第六章.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -923,19 +896,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笨方法学python/练习42.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/笨方法学python/项目骨架/setup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笨方法学python/项目骨架/distribute-0.7.3/distribute-0.7.3/pkg_resources.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7126">
+          <caret line="1146" column="21" selection-start-line="1146" selection-start-column="21" selection-end-line="1146" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笨方法学python/项目骨架/测试专用的骨架文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -947,21 +928,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笨方法学python/项目骨架/distribute-0.7.3/distribute-0.7.3/pkg_resources.py">
+    <entry file="file://$PROJECT_DIR$/笨方法学python/练习42.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7126">
-          <caret line="1146" column="21" selection-start-line="1146" selection-start-column="21" selection-end-line="1146" selection-end-column="21" />
+        <state relative-caret-position="787">
+          <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/笨方法学python/项目骨架/测试专用的骨架文件.py">
+    <entry file="file://$PROJECT_DIR$/笨方法学python/练习49.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="729">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
