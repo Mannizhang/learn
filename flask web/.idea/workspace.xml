@@ -15,7 +15,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/flask web$flask.coverage" NAME="包含动态路由的flask程序 Coverage Results" MODIFIED="1473429162912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章" />
     <SUITE FILE_PATH="coverage/flask web$hello_world2.coverage" NAME="hello world2 Coverage Results" MODIFIED="1473399259314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章" />
-    <SUITE FILE_PATH="coverage/flask web$.coverage" NAME="控制结构 Coverage Results" MODIFIED="1473433942448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章" />
+    <SUITE FILE_PATH="coverage/flask web$.coverage" NAME="在衍生模块中添加模块 Coverage Results" MODIFIED="1473508908195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第三章" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="引入bootstra模块后的user.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三章/引入bootstra模块后的user.html">
+      <file leaf-file-name="在衍生模块中添加模块.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三章/在衍生模块中添加模块.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            <state relative-caret-position="108">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="在衍生模块中添加模块.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第三章/在衍生模块中添加模块.py">
+      <file leaf-file-name="3.3自定义错误.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第三章/3.3自定义错误.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="108">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -121,6 +121,9 @@
         <option value="$PROJECT_DIR$/第三章/base.html" />
         <option value="$PROJECT_DIR$/第三章/修改base.html" />
         <option value="$PROJECT_DIR$/第三章/引入bootstra模块后的user.html" />
+        <option value="$PROJECT_DIR$/第三章/macros.py" />
+        <option value="$PROJECT_DIR$/第三章/在衍生模块中添加模块.py" />
+        <option value="$PROJECT_DIR$/第三章/3.3自定义错误.py" />
       </list>
     </option>
   </component>
@@ -161,6 +164,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -179,34 +184,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flask web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flask web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="第三章" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/第三章/控制结构.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zgj_lesson2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.引入bootstra模块后的user.html">
-    <configuration default="false" name="控制结构" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.在衍生模块中添加模块">
+    <configuration default="false" name="base.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/flask web/第三章/base.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="others.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/flask web/第三章/others.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="修改base.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/flask web/第三章/修改base.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="引入bootstra模块后的user.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/flask web/第三章/引入bootstra模块后的user.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="在衍生模块中添加模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -219,21 +220,9 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="flask web" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章/控制结构.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章/在衍生模块中添加模块.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="base.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/flask web/第三章/base.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="others.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/flask web/第三章/others.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="修改base.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/flask web/第三章/修改base.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="引入bootstra模块后的user.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/flask web/第三章/引入bootstra模块后的user.html">
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -445,19 +434,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.控制结构" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.base.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.others.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.修改base.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.引入bootstra模块后的user.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.base.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.others.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.修改base.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.引入bootstra模块后的user.html" />
+      <item index="4" class="java.lang.String" itemvalue="Python.在衍生模块中添加模块" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.引入bootstra模块后的user.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.修改base.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.others.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.base.html" />
-        <item index="4" class="java.lang.String" itemvalue="Python.控制结构" />
+        <item index="0" class="java.lang.String" itemvalue="Python.在衍生模块中添加模块" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.引入bootstra模块后的user.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.修改base.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.others.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.base.html" />
       </list>
     </recent_temporary>
   </component>
@@ -537,14 +526,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/第三章/修改base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第三章/user.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -796,26 +777,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第三章/macros.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第三章/index1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第三章/user.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -828,18 +793,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第三章/引入bootstra模块后的user.html">
+    <entry file="file://$PROJECT_DIR$/第三章/引入bootstra模块后的user.html" />
+    <entry file="file://$PROJECT_DIR$/第三章/macros.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        <state relative-caret-position="270">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第三章/在衍生模块中添加模块.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="108">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章/3.3自定义错误.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding />
         </state>
       </provider>
