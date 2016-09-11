@@ -28,6 +28,11 @@ def rebase(reuse):
     return render_template("rebase.html", name=reuse)
 
 from flask.ext.bootstrap import Bootstrap
+bootstrap=Bootstrap(app)
 
-if __name__ == '__main__':
-    app.run(debug=True)
+@app.route('/bootstrapbase/<>')
+def bootstrapbase():
+    return render_template("bootstrapbase.html",name=bootstrapbase)
+
+
+
