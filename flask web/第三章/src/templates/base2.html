@@ -9,3 +9,8 @@
     {% endblock %}
 </body>
 </html>
+
+{% block scripts %}
+{{ super() }}
+{{ moment.include_moment() }}
+{% endblock %}

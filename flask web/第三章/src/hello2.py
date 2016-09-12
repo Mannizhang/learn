@@ -1,6 +1,15 @@
 from flask import Flask, render_template
+from flask_moment import Moment
+from datetime import  datetime
+
 
 app = Flask(__name__)
+
+moment=Moment(app)
+
+@app.route('/help/<time>')
+def help(time):
+    return  render_template("help.html",current_time=datetime.utcnow())
 
 
 @app.route('/')
@@ -11,7 +20,6 @@ def index():
 @app.route('/user/<name>')
 def user(name):
     return render_template('user2.html', name=name)
-
 
 @app.route('/ifelse/<username1>')
 def ifelse(username1):
@@ -27,12 +35,5 @@ def base(use):
 def rebase(reuse):
     return render_template("rebase.html", name=reuse)
 
-from flask.ext.bootstrap import Bootstrap
-bootstrap=Bootstrap(app)
-
-@app.route('/bootstrapbase/<>')
-def bootstrapbase():
-    return render_template("bootstrapbase.html",name=bootstrapbase)
-
-
-
+if __name__ == '__main__':
+    app.run(debug=True)
