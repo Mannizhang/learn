@@ -12,7 +12,6 @@ app.config['SQLALCHEMY_DATABASE_URI'] = \
 app.config['SQLALCHEMY_COMMIT_ON_TEARDOWN'] = True
 
 
-
 # 定义模型
 class Role(db.Model):
     __tablename__ = 'roles'
