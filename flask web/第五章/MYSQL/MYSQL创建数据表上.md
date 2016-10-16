@@ -15,4 +15,11 @@
      \s 看状态（库名已经成为默认库）
 
 - 3. 创建表的语句(DDL语句) create table 表名称();
-     create table 表名称
+     create table 表名称 (字段名1 列类型
+                          字段名2 列类型   
+                          字段名n 列类型
+                          );
+     更好的做法：create table if not exists 表名称（
+                                                字段名1 列类型[属性][索引]
+                                                ...
+                                                字段名n 列类型 
